@@ -18,9 +18,6 @@ Highlights:
 - 📂 PostgreSQL for Data Persistence
 - 🎨 Styling with Tailwind CSS + Shadcn
 - ⚡ Data Fetching with TanStack Query
-- 🤖 CodeRabbit for PR Optimizations
-- 🧑‍💻 Git & GitHub Workflow (branches, PRs, merges)
-- 🚀 Deployment on Sevalla (free-tier friendly)
 
 ---
 
